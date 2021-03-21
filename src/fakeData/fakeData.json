@@ -1,0 +1,11 @@
+[{"id":1,"name":"Mashrafe Mortaza","position":"Bowler","country":"Bangladesh","salary":6990,"image":"https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2020/01/13/Pictures/_467f154e-35f1-11ea-a5b1-19fef2bd3e95.jpg"},
+{"id":2,"name":"Sakib Al Hasan","position":"All-rounder","country":"Bangladesh","salary":4000,"image":"https://images.outlookindia.com/public/uploads/articles/2020/5/11/Shakib-Al-Hasan-File_571_855.jpg"},
+{"id":3,"name":"Virat Kohli","position":"Batsman","country":"India","salary":1200,"image":"https://img.etimg.com/thumb/width-1200,height-900,imgsize-623426,resizemode-1,msid-71916421/magazines/panache/family-failure-parathas-virat-kohli-pens-note-to-his-15-yr-old-self-chiku-includes-notes-to-navigate-through-life.jpg"},
+{"id":4,"name":"Shahid Afridi","position":"All-rounder","country":"Pakistan","salary":6500,"image":"https://yt3.ggpht.com/ytc/AAUvwni8_B0UPCH9cdfYmYm6JFhFxPYL72mTDUdd_x9N=s900-c-k-c0x00ffffff-no-rj"},
+{"id":5,"name":"Hasim Amla","position":"Batsman","country":"Africa","salary":3400,"image":"https://images.news18.com/ibnlive/uploads/2018/10/Hashim-Amla-South-Africa-.jpg"},
+{"id":6,"name":"Brett Lee","position":"Bowler","country":"Australia","salary":4800,"image":"https://i.pinimg.com/originals/2c/db/e1/2cdbe188a0cc3ce262beb961d7a124f1.jpg"},
+{"id":7,"name":" Steve Smith","position":"Batsman","country":"Australia","salary":3000,"image":"https://media-eng.dhakatribune.com/uploads/2020/06/smith-celeb-ap-571-855-1591016856523.jpg"},
+{"id":8,"name":"Kieron Pollard","position":"Batsman","country":"West-Indies","salary":4000,"image":"https://cdn.insidesport.co/wp-content/uploads/2021/01/26121008/ikpV5yj7I4.jpg"},
+{"id":9,"name":"Glenn Maxwell","position":"All-rounder","country":"Australia","salary":3200,"image":"https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/286100/286194.4.jpg"},
+{"id":10,"name":"Chris Gayle","position":"Batsman","country":"West-Indies","salary":6000,"image":"https://www.sundayguardianlive.com/wp-content/uploads/2020/01/chrisgaylelead-1574702153-copy.jpg"},
+{"id":11,"name":"DJ Bravo","position":"All-rounder","country":"West-Indies","salary":2500,"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF0BRWDYvuCqDQBHWLfx3RLpP5StDDJPvhCw&usqp=CAU"}]

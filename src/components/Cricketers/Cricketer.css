@@ -1,0 +1,24 @@
+.cricketers img{
+    width: 250px;
+    margin-top: 20px;
+}
+.cricketers{
+    display: flex;
+    border-bottom: 1px solid darkgrey;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+.cricketer-detail{
+    margin-left: 10px;
+    color: darkolivegreen;
+}
+.add-button{
+    background-color: cadetblue;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    border: none;
+    cursor: pointer;
+}
